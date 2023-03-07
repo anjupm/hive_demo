@@ -11,7 +11,6 @@ class SignUpScreen extends StatelessWidget {
   final password_controler = TextEditingController();
   final cpass_controller = TextEditingController();
 
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
